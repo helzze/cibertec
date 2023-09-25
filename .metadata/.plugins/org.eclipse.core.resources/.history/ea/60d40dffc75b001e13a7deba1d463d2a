@@ -1,0 +1,13 @@
+package com.lp2sebastiansanca.interfaces;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.lp2sebastiansanca.modelo.Empleado;
+
+
+
+
+
+public interface IEmpleado extends CrudRepository<Empleado, Integer> {
+
+}

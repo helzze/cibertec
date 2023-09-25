@@ -1,0 +1,5 @@
+package com.lp2sebastiansanca.interfaceService;
+
+public interface IEmpleadoService {
+
+}
